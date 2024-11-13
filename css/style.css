@@ -128,7 +128,7 @@ nav li {
 }
 
 nav li a {
-    color: rgb(18, 0, 110);
+    color: rgb(227, 243, 7);
 }
 
 nav li:hover {
@@ -156,7 +156,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(0 157 222);
+    background-color: rgb(230, 250, 1);
 }
 .bg-azul-c {
     background-color: rgb(240, 249, 252);
@@ -315,6 +315,21 @@ h1 {
 
 #multimedia .audio{
 display: block;
-margin: 0 auto;
+margin: 0 auto;}
+.formlogin{
+    float: left;
+    width: 50%;
+}
 
+.formregister {
+    float: right;
+    width: 50%;
+}
+.cb{
+    clear: both;
+}
+.formhtml5 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: brown;
 }
