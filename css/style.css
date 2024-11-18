@@ -301,10 +301,19 @@ h1 {
     
 }
 .col-3{
+    display: block;
     width: 33,33%;
 
- padding: 6px;
+    padding: 4px;
+   
 }
+.imgm{
+
+  
+    width: 280px;
+    
+}
+
 .text-center{
     text-align: center;
 }
